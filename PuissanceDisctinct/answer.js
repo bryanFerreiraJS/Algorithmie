@@ -8,4 +8,4 @@ for (currentA; currentA <= 100; currentA++) {
   currentB = 2
 }
 
-console.log(listOfDistinctPowers.size)
+console.log(listOfDistinctPowers.size) // => 9183
