@@ -1,0 +1,9 @@
+Une fraction décimale irrationnelle est créée en concaténant les entiers positifs:
+
+0,12345678910 1 112131415161718192021 ...
+
+On peut voir que le 12ème chiffre de la partie fractionnaire est 1.
+
+Si d(n) représente le n ème chiffre de la partie fractionnaire, recherchez la valeur de l'expression suivante.
+
+d(1) × d(10) × d(100) × d(1000) × d(10000) × d(100000) × d(1000000)
