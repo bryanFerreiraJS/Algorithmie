@@ -1,1 +1,0 @@
-Créez un Algorithme qui prend une phrase en argument et qui retourne cette même phrase avec la premiere lettre de chaque mot en Majuscule.
